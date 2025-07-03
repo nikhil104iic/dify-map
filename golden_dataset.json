@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "HDFC Bank ATM",
+      "type": "ATM",
+      "latitude": 28.6353,
+      "longitude": 77.0907,
+      "address": "Mayapuri, New Delhi",
+      "expected_extraction": true
+    },
+    {
+      "id": 2,
+      "name": "St. Mary Public School",
+      "type": "School",
+      "latitude": 28.6435,
+      "longitude": 77.1254,
+      "address": "Naraina Vihar, New Delhi",
+      "expected_extraction": true
+    },
+    {
+      "id": 3,
+      "name": "Domino's Pizza",
+      "type": "Restaurant",
+      "latitude": 28.6410,
+      "longitude": 77.1122,
+      "address": "Rajouri Garden, New Delhi",
+      "expected_extraction": true
+    },
+    {
+      "id": 4,
+      "name": "ICICI Bank ATM",
+      "type": "ATM",
+      "latitude": 28.6319,
+      "longitude": 77.0911,
+      "address": "Mayapuri Phase 2, New Delhi",
+      "expected_extraction": true
+    },
+    {
+      "id": 5,
+      "name": "DAV Public School",
+      "type": "School",
+      "latitude": 28.6452,
+      "longitude": 77.1267,
+      "address": "Naraina Industrial Area, New Delhi",
+      "expected_extraction": true
+    },
+    {
+      "id": 6,
+      "name": "Bikanervala",
+      "type": "Restaurant",
+      "latitude": 28.6420,
+      "longitude": 77.1150,
+      "address": "Rajouri Garden, New Delhi",
+      "expected_extraction": true
+    },
+    {
+      "id": 7,
+      "name": "PNB ATM",
+      "type": "ATM",
+      "latitude": 28.6378,
+      "longitude": 77.0893,
+      "address": "Mayapuri Market, New Delhi",
+      "expected_extraction": true
+    },
+    {
+      "id": 8,
+      "name": "Springdale School",
+      "type": "School",
+      "latitude": 28.6463,
+      "longitude": 77.1238,
+      "address": "Naraina, New Delhi",
+      "expected_extraction": true
+    },
+    {
+      "id": 9,
+      "name": "KFC",
+      "type": "Restaurant",
+      "latitude": 28.6405,
+      "longitude": 77.1101,
+      "address": "Rajouri Garden Main Market, New Delhi",
+      "expected_extraction": true
+    },
+    {
+      "id": 10,
+      "name": "Axis Bank ATM",
+      "type": "ATM",
+      "latitude": 28.6364,
+      "longitude": 77.0923,
+      "address": "Mayapuri Chowk, New Delhi",
+      "expected_extraction": true
+    }
+  ]
+  

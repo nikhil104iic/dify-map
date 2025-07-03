@@ -1,0 +1,59 @@
+[
+    {
+      "name": "HDFC ATM",
+      "type": "ATM",
+      "latitude": 28.6353,
+      "longitude": 77.0907,
+      "address": "Mayapuri, Delhi"
+    },
+    {
+      "name": "St. Mary Public School",
+      "type": "School",
+      "latitude": 28.6435,
+      "longitude": 77.1254,
+      "address": "Naraina Vihar, New Delhi"
+    },
+    {
+      "name": "Dominos Pizza",
+      "type": "Restaurant",
+      "latitude": 28.6408,
+      "longitude": 77.1122,
+      "address": "Rajouri Garden, Delhi"
+    },
+    {
+      "name": "ICICI Bank ATM",
+      "type": "ATM",
+      "latitude": 28.6319,
+      "longitude": 77.0911,
+      "address": "Mayapuri Phase 2"
+    },
+    {
+      "name": "DAV School",
+      "type": "School",
+      "latitude": 28.6452,
+      "longitude": 77.1265,
+      "address": "Naraina Industrial Area, New Delhi"
+    },
+    {
+      "name": "Bikanerwala",
+      "type": "Restaurant",
+      "latitude": 28.6421,
+      "longitude": 77.1149,
+      "address": "Rajouri Garden"
+    },
+    {
+      "name": "PNB",
+      "type": "ATM",
+      "latitude": 28.6379,
+      "longitude": 77.0893,
+      "address": "Mayapuri Market"
+    },
+    {
+      "name": "KFC",
+      "type": "Restaurant",
+      "latitude": 28.6405,
+      "longitude": 77.1101,
+      "address": "Rajouri Garden Main Market"
+    }
+  ]
+  
